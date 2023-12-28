@@ -8,24 +8,24 @@ This project aims to develop a machine learning model that predicts an individua
 
 1. Data Exploration and Preprocessing:
 
-- Loading and understanding the dataset
-- Handling missing values
-- Encoding categorical variables
-- Splitting data into training and testing sets
+- - Loading and understanding the dataset
+- - Handling missing values
+- - Encoding categorical variables
+- - Splitting data into training and testing sets
 
 2. Model Building and Evaluation:
 
-- Experimenting with different machine learning models
-- Tuning hyperparameters to optimize performance
-- Evaluating model accuracy, precision, recall, F1-score, and AUC-ROC
-- Selecting the best-performing model
+- - Experimenting with different machine learning models
+- - Tuning hyperparameters to optimize performance
+- - Evaluating model accuracy, precision, recall, F1-score, and AUC-ROC
+- - Selecting the best-performing model
 
 3. Web Application Development:
 
-- Creating a user-friendly interface with **Streamlit**
-- Handling user input
-- Making predictions using the trained model
-- Displaying prediction results in a clear and informative manner
+- - Creating a user-friendly interface with **Streamlit**
+- - Handling user input
+- - Making predictions using the trained model
+- - Displaying prediction results in a clear and informative manner
 
 ## Technologies Used
 
